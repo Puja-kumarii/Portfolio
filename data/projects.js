@@ -23,7 +23,6 @@ projectData.forEach(p =>{
         <div class="col-lg-4">
         <div class="text-container">
             <h5> <strong> ${p.title}</strong> </h5>
-
             <div class="image-container border">
               <a href="${p.link}" target="_blank">
                 <img class="img-fluid" src="${p.image}" alt="alternative">
