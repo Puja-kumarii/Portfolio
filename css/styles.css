@@ -665,6 +665,9 @@ input[type='checkbox'] {
 
 .basic-3 .text-container {
 	margin-bottom: 4rem;
+	margin-left: 5rem;
+	margin-right: 1rem;
+	align-content: center;
 }
 
 .basic-3 .image-container {
@@ -676,7 +679,7 @@ input[type='checkbox'] {
 	overflow: hidden;
 	margin-left: auto;
 	align-self: auto;
-	width: 110%;
+	width: 140%;
 	height: auto;
 	
 }
